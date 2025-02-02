@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venu-kuruganti
-- 👀 I’m interested in coding using Microsoft .NET technologies like C#, ASP.NET MVC, etc.
-- 🌱 I’m currently learning Front End Stuff, JavaScript Frameworks.
+- 👀 I’m interested in Full Stack Web Development using .NET Web API and Angular
+- 🌱 I’m currently learning and practising Angular.
 - 📫 How to reach me ... Email me on venu.kuruganti@gmail.com
 
 <!---
